@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-about
+这里是LIVID的个人博客
+来了别走，多看看
