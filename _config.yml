@@ -3,6 +3,6 @@ description: Summer Tree Hole
 github_username: jekyll
 permalink: /:title.html
 timezone: Asia/Shanghai
-theme: Merlot
+theme: minima
 plugins:
   - jekyll-feed
